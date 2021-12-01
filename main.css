@@ -1,0 +1,17 @@
+
+
+
+.container{
+    background-image:url("background.jpg");
+    background-size: cover;
+    background-repeat: repeat-y;
+    text-align: center;
+    text-transform: uppercase;
+    color: beige;
+    border: yellowgreen  solid 5px;
+}
+
+#nav-items{
+    justify-content: end;
+
+}
